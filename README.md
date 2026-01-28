@@ -2,4 +2,6 @@
 <h1 align="center">
 <a href="https://www.cesca.dev">Visit my portfolio.</a>
 </h1>
-![Profile views](https://komarev.com/ghpvc/?cescaa)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=cescaa" />
+</p>
