@@ -3,5 +3,5 @@
 <a href="https://www.cesca.dev">Visit my portfolio.</a>
 </h1>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=cescaa&label=Profile%20Views&color=ffc0cb" />
+  <img src="https://komarev.com/ghpvc/?username=cescaa&label=Profile%20Views&color=F177F9" />
 </p>
